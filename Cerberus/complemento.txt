@@ -1,0 +1,8 @@
+os arquivos de configuração para informar ao servidor
+asgi e wsgi eventualmente vamos precisar editar para fechar 
+a aplicação.
+
+
+
+Editando o projeto todo para Controle_Veiculos app   Cerberus
+
